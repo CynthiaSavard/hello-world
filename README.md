@@ -1,3 +1,2 @@
 # hello-world
-Just another repository
-find me on Twitter @CynthiaSavard
+Find me on Twitter @CynthiaSavard
